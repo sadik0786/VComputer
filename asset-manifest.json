@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vcomputer/static/css/main.2bf45893.css",
-    "main.js": "/vcomputer/static/js/main.07fb499c.js",
-    "static/media/vcclogo.png": "/vcomputer/static/media/vcclogo.8a42791364a4bc908bd1.png",
-    "static/media/slick.svg": "/vcomputer/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/vcomputer/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/vcomputer/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/vcomputer/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/vcomputer/index.html",
-    "main.2bf45893.css.map": "/vcomputer/static/css/main.2bf45893.css.map",
-    "main.07fb499c.js.map": "/vcomputer/static/js/main.07fb499c.js.map"
+    "main.css": "/static/css/main.e9f62689.css",
+    "main.js": "/static/js/main.228b9582.js",
+    "static/media/vcclogo.png": "/static/media/vcclogo.8a42791364a4bc908bd1.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.e9f62689.css.map": "/static/css/main.e9f62689.css.map",
+    "main.228b9582.js.map": "/static/js/main.228b9582.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bf45893.css",
-    "static/js/main.07fb499c.js"
+    "static/css/main.e9f62689.css",
+    "static/js/main.228b9582.js"
   ]
 }
